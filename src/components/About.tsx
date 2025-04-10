@@ -62,7 +62,7 @@ const About = () => {
                 </li>
                 <li className="flex gap-2">
                   <span className="font-medium">Email:</span>
-                  <span className="text-gray-600 dark:text-gray-300">contact@example.com</span>
+                  <span className="text-gray-600 dark:text-gray-300">vrandhire@gmail.com</span>
                 </li>
               </ul>
             </div>
