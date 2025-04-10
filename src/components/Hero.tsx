@@ -35,7 +35,7 @@ const Hero = () => {
           <div className="md:w-2/5 flex justify-center">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-brandRed shadow-xl animate-on-scroll opacity-0">
               <img 
-                src="/lovable-uploads/7abfb9c1-4c40-4e5b-a45e-8424831882bd.png" 
+                src="/lovable-uploads/7cdeeab5-6df6-43bb-87b1-09d90d12864d.png" 
                 alt="Vishal Randhire" 
                 className="w-full h-full object-cover"
               />
