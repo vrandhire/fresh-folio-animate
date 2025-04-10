@@ -1,6 +1,6 @@
 
 import { useEffect, useRef } from "react";
-import { Database, Code, GitBranch, Server, FileText, Users, Terminal, LineChart } from "lucide-react";
+import { Database, Code, GitBranch, Server, FileText, Users, Terminal, LineChart, Coffee, Layers } from "lucide-react";
 
 const Skills = () => {
   const skillsRef = useRef<HTMLElement>(null);
@@ -32,6 +32,8 @@ const Skills = () => {
   }, []);
 
   const skills = [
+    { name: "Java", icon: <Coffee className="text-brandRed" size={24} /> },
+    { name: "SpringBoot", icon: <Layers className="text-brandRed" size={24} /> },
     { name: "SQL & PostgreSQL", icon: <Database className="text-brandRed" size={24} /> },
     { name: "Jenkins", icon: <GitBranch className="text-brandRed" size={24} /> },
     { name: "Postman API", icon: <Code className="text-brandRed" size={24} /> },
