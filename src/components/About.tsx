@@ -37,7 +37,7 @@ const About = () => {
           <div className="animate-on-scroll opacity-0" style={{ animationDelay: "200ms" }}>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               As an Application Support Engineer with a strong background in tech and process optimization, 
-              I have over 8 years of experience providing technical support, automating tasks, and managing complex systems.
+              I have over 9 years of experience providing technical support, automating tasks, and managing complex systems.
             </p>
             <p className="text-gray-600 dark:text-gray-300 mb-4">
               At upGrad, I play a pivotal role in resolving technical issues for various internal teams, using tools 
@@ -58,7 +58,7 @@ const About = () => {
                 </li>
                 <li className="flex gap-2">
                   <span className="font-medium">Experience:</span>
-                  <span className="text-gray-600 dark:text-gray-300">8+ Years</span>
+                  <span className="text-gray-600 dark:text-gray-300">9+ Years</span>
                 </li>
                 <li className="flex gap-2">
                   <span className="font-medium">Email:</span>

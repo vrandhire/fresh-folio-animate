@@ -55,7 +55,7 @@ const Hero = () => {
             
             <p className="text-gray-600 dark:text-gray-300 mb-8 max-w-2xl animate-on-scroll opacity-0" style={{ animationDelay: "400ms" }}>
               As an Application Support Engineer with a strong background in tech and process optimization, 
-              I have over 8 years of experience providing technical support, automating tasks, and managing complex systems. 
+              I have over 9 years of experience providing technical support, automating tasks, and managing complex systems. 
               Currently at upGrad, I play a pivotal role in resolving technical issues for various internal teams.
             </p>
             
