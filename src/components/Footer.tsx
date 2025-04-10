@@ -1,5 +1,5 @@
 
-import { GitHub, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-end">
             <div className="flex gap-4 mb-4">
               <a href="https://github.com/" target="_blank" rel="noreferrer" className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 hover:bg-brandRed transition-all">
-                <GitHub size={20} />
+                <Github size={20} />
               </a>
               <a href="https://www.linkedin.com/in/vrandhire" target="_blank" rel="noreferrer" className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 hover:bg-brandRed transition-all">
                 <Linkedin size={20} />

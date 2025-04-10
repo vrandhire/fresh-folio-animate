@@ -1,5 +1,5 @@
 
-import { GitHub, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail } from "lucide-react";
 import { useEffect, useRef } from "react";
 
 const Hero = () => {
@@ -70,7 +70,7 @@ const Hero = () => {
             
             <div className="flex gap-4 animate-on-scroll opacity-0" style={{ animationDelay: "800ms" }}>
               <a href="https://github.com/" target="_blank" rel="noreferrer" className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200 dark:bg-charcoal hover:bg-brandRed hover:text-white transition-all">
-                <GitHub size={20} />
+                <Github size={20} />
               </a>
               <a href="https://www.linkedin.com/in/vrandhire" target="_blank" rel="noreferrer" className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-200 dark:bg-charcoal hover:bg-brandRed hover:text-white transition-all">
                 <Linkedin size={20} />
